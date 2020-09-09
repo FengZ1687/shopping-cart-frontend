@@ -1,0 +1,51 @@
+[
+    {   
+        "id": 1,
+        "name":"iphone12",
+        "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-purple-select-2019?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1566960958082",
+        "inventory":12,
+        "price":2000,
+        "productDesc":"Lastest iPhone released in 2020"
+    },
+    {   
+        "id": 2,
+        "name":"HP Printer",
+        "img":"https://cdn.shopify.com/s/files/1/0036/4806/1509/products/m004517010.jpg?v=1582207062",
+        "inventory":20 ,
+        "price":129.99,
+        "productDesc":"LaserJet Pro 200 All-in-one Color"
+    },
+    {   
+        "id": 3,
+        "name":"Smart TV",
+        "img":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/144/14469/14469364.jpg",
+        "inventory":15,
+        "price":799.99,
+        "productDesc":"Samsung 65 4K UHD HDR LED Tizen  - Titan Grey"
+    },
+    {   
+        "id": 4,   
+        "name":"Headphone",
+        "img":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/123/12364/12364615.jpg",
+        "inventory":15,
+        "price":49.99,
+        "productDesc":"Sony WHCH500 On-Ear Headphones with Mic - Black"
+    },
+    {
+        "id": 5,
+        "name":"HD Pro Webcam",
+        "img":"https://images-na.ssl-images-amazon.com/images/I/51JYT-9yCBL._AC_SX679_.jpg",
+        "inventory":15,
+        "price":49.99,
+        "productDesc":"Live Streaming Webcam for Video Calling Recording Conferencing"
+    },
+    {
+        "id": 6,
+        "name":"Flowtron BK-15D",
+        "img":"https://images-na.ssl-images-amazon.com/images/I/71%2BrDcuCR%2BL._AC_SY679_.jpg",
+        "inventory":15,
+        "price":148.94,
+        "productDesc":"Advanced electronic insect control; non clogging killing grid"
+    }
+    
+]
